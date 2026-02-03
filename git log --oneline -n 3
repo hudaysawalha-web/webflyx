@@ -1,0 +1,36 @@
+[33mcommit e97986ea76b78ace1c6e49594b6457b37dfa6f03[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 36fe0d4 789f36c
+Author: hudaysawalha-web <hudasawalha3@gmail.com>
+Date:   Tue Feb 3 23:22:46 2026 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 36fe0d424ccf4bd6241960ce742496935d5bd847[m
+Author: hudaysawalha-web <hudasawalha3@gmail.com>
+Date:   Tue Feb 3 18:55:39 2026 +0200
+
+    E: addto contents.md
+
+[33mcommit 789f36c68165313a6cd8b45436bec7d366d6291e[m
+Author: hudaysawalha-web <hudasawalha3@gmail.com>
+Date:   Tue Feb 3 17:59:04 2026 +0200
+
+    D: add classics.csv
+
+[33mcommit d6e17aad63fb2a810431e924900f3d606c394ea8[m
+Author: hudaysawalha-web <hudasawalha3@gmail.com>
+Date:   Tue Feb 3 11:09:07 2026 +0200
+
+    C: add quotes
+
+[33mcommit 5422b0935e8ede4b85e012b05160cd9b5bb6b147[m
+Author: hudaysawalha-web <hudasawalha3@gmail.com>
+Date:   Tue Feb 3 10:19:26 2026 +0200
+
+    B: add titles
+
+[33mcommit 244f72848e4d7cabe35573d06a6ca2b376094324[m
+Author: hudaysawalha-web <hudasawalha3@gmail.com>
+Date:   Tue Feb 3 08:49:14 2026 +0200
+
+    A: add contents.md
